@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "936686154863",
+    "project_id": "movieappintern-a52a7",
+    "storage_bucket": "movieappintern-a52a7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936686154863:android:a5f6975a35ac7843d0099a",
+        "android_client_info": {
+          "package_name": "com.zaurh.movieappintern2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkECGZoPrF_hTrIZF19CTOyZxr0qqMhmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
